@@ -5,5 +5,5 @@
 
 <br>
 
+![MineSweeper](https://user-images.githubusercontent.com/71058334/127103721-f4bf994f-b7e9-48b9-83fb-f46f4549dfc8.PNG)
 
-![MineSweeper](https://user-images.githubusercontent.com/71058334/127103690-63afe584-bd4a-4644-b495-6ec57a73c910.PNG)
